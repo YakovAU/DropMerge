@@ -36,3 +36,4 @@ The token count for all added files is displayed at the bottom left of the windo
 
 
 
+![image](https://github.com/user-attachments/assets/13dc0979-ff41-4899-9167-ea50c4441ccb)
